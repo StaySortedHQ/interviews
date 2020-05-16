@@ -24,5 +24,5 @@ A good example would be the use of Face ID. It learns about your face over time 
 
 You're free to pick the technologies of your choice, as long as it is presented in a native iOS or macOS app.
 
-You'll be accessed based on code quality and test coverage. Please create a private repo for your submission and share it to user harryworld on GitHub or email the zipped project to harry@staysorted.com
+You'll be assessed based on code quality and test coverage. Please create a private repo for your submission and share it to user harryworld on GitHub or email the zipped project to harry@staysorted.com
 
