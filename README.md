@@ -10,7 +10,7 @@ We're hiring a remote team to help bringing Sorted³ to the next level.
 - I will invite you to our Slack group for a chat
 
 2. Show us what you know (< 4 hours)
-- Depedning on your role, show us your ability with the take-home assignment
+- Depending on your role, show us your ability with the take-home assignment
   - [Coder Challenge](coding.md)
   - [Marketer Challenge](marketing.md)
 
