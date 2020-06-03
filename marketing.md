@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Team Sorted is re-branding the pitch and working on a new website. In fact, we'll have a big launch this year, together with the macOS and hihgly-improved iOS app.
+Team Sorted is re-branding the pitch and working on a new website. In fact, we'll have a big launch this year, together with the macOS and highly-improved iOS app.
 
 We're preparing to expand our marketing effort for greater reach.
 
